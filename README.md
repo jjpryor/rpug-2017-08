@@ -20,7 +20,7 @@
   - [Tip of the Week 31 - Request for Feedback - sort_merged_arrays fix](http://www.example42.com/2017/07/31/sort_merged_array-fix/)
   - [Tip of the Week 32 - Puppet class indirection via Hiera](http://www.example42.com/2017/08/07/class-indirection/)
 + Other good stuff
- - [rnelson0 - Managing SSH server security with Puppet](https://rnelson0.com/2017/07/04/managing-ssh-server-security-with-puppet/)
+  - [rnelson0 - Managing SSH server security with Puppet](https://rnelson0.com/2017/07/04/managing-ssh-server-security-with-puppet/)
 
 # Meeting's topic: Workflow tools
 + [PSICK](https://github.com/example42/psick)
